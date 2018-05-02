@@ -1,1 +1,2 @@
 lam tran
+test remove index
